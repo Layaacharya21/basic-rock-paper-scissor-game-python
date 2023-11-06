@@ -1,5 +1,5 @@
 # basic-rock-paper-scissor-game-python
 
-Hey I have build my first project in python!
+Hey, I have built my first project in Python!
 
-Small step to my python journey!
+Small step in my python journey!
